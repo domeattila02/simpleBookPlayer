@@ -90,7 +90,7 @@ const rewindBtn = document.getElementById('rewindButton') as HTMLButtonElement;
 const forwardBtn = document.getElementById('forwardButton') as HTMLButtonElement;
 const currentTimeSpan = document.getElementById('currentTime') as HTMLSpanElement;
 const durationSpan = document.getElementById('duration') as HTMLSpanElement;
-const coverImage = document.getElementById('coverImage') as HTMLImageElement;
+
 
 
 // Helper to format time
